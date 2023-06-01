@@ -9,15 +9,25 @@ Visualización de datos - PowerBI
 ❓ Preguntas
 
 ¿Cuál es el desglose por sexo de los empleados de la empresa?
+
 ¿Cuál es el desglose por raza/etnia de los empleados de la empresa?
+
 ¿Cuál es la distribución por edades de los empleados de la empresa?
+
 ¿Cuántos empleados trabajan en la sede central y cuántos en ubicaciones remotas?
+
 ¿Cuál es la antigüedad media de los empleados despedidos?
+
 ¿Cómo varía la distribución por sexos en los distintos departamentos y puestos?
+
 ¿Cómo se distribuyen los puestos de trabajo en la empresa?
+
 ¿Qué departamento tiene el mayor índice de rotación?
+
 ¿Cuál es la distribución de los empleados por sedes y estados?
+
 ¿Cómo ha cambiado el número de empleados de la empresa a lo largo del tiempo en función de las fechas de contratación y de finalización del contrato?
+
 ¿Cuál es la distribución de la antigüedad en cada departamento?
 
 ✅Resumen de los resultados
