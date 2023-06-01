@@ -1,5 +1,6 @@
 # Distribucion-de-Empleados-RRHH
 
+![image](https://github.com/alejandrazapatap/Distribucion-de-Empleados-RRHH/assets/97615442/a8e45c0c-74b1-4b8f-a29c-ab2f756d3c90)
 Datos utilizados
 Datos - Datos de RRHH con más de 22000 filas desde el año 2000 hasta 2020.
 
